@@ -1,4 +1,4 @@
-# Ejercicio-1.2
+# Ejercicio-1.2 UVIC Máster de robótica
 webcam betarobots
 
 *Clonamos el repositorio de webcam del perfil de BetaRobots
